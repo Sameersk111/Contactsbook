@@ -1,6 +1,6 @@
 # Contactsbook
-this project is a kind of minor project where a user can save contact details of others \n
-Details such as :\n
+this project is a kind of minor project where a user can save contact details of others
+Details such as :
         1.Contact Name 
         2.Contact Email id
         3.Contact Phone Number 
